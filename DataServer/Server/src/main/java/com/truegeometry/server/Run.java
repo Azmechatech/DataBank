@@ -13,6 +13,9 @@ import org.rapidoid.setup.On;
 
 /**
  * http://localhost:8080/DataBank?account=account1&dataName=sampleData1&type=csv
+ * 
+ * Use below pattern for serving large files.
+ * http://localhost:8080/DataBankStream?account=account1&dataName=sampleData1&type=csv
  * @author Manoj
  */
 public class Run {

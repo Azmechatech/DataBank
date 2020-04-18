@@ -3,7 +3,7 @@ DataBank Concept, Libraries and utilities
 
 This project is an attempt to promote decentralization of data while protecting the interests of individuals and organizations. While the data is 21st century Gold, it must not be caged into one organization as it is generated from the society. There needs to be way to protect the interests or individuals and organizations, and at same time it should be available to researchers and professionals to generate more value out of it for society.
 
-By design the library and processes incorporated in this project will protect the sensitive information, and will only expose the data on which Statistics Models and AI/ML can be built. But the individual or organization will only be able to use the model for practical purposes if the original owner of the data discloses the "Account Key" that is generated when the data is encoded with help of "DataEncoder.ipynb" located in "jpynb" folder of this project.
+By design the library and processes incorporated in this project will protect the sensitive information, and will only expose the data on which Statistics Models and AI/ML can be built. But the individual or organization will only be able to use the model for practical purposes if the original owner of the data discloses the [Account Key](https://github.com/Azmechatech/DataBank/tree/master/AccountKeys) that is generated when the data is encoded with help of [DataEncoder.ipynb](https://github.com/Azmechatech/DataBank/blob/master/jpynb/DataEncoder.ipynb) located in [jpynb](https://github.com/Azmechatech/DataBank/tree/master/jpynb) folder of this project.
 
 The third-party can be of following types:
 1. Researchers looking for context independent data set,

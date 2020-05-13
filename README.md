@@ -19,3 +19,5 @@ And in case of "Professionals/Consulting firms employed by you but they are buil
 Image below displays the preferred architecture for sharing data between your organization and consulting firms. The responsibility of serving data stream can be part of your Data Engineering team.
 
 ![Architecture](docs/images/DataBank.png)
+
+![Storage Connectors](docs/images/DataBankDataStore.png)
